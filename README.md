@@ -304,7 +304,7 @@ Want to get started instantly without setting up anything locally? Use GitHub Co
 3. **Create Codespace**: Click "Create codespace on main"
 4. **Start the Web UI**: Once the codespace loads, open a terminal and run:
    ```bash
-   cd web-ui
+   ç
    go run main.go
    ```
 5. **Optional: Enable AI Features**: Add your Gemini API key:
